@@ -1,0 +1,6 @@
+{
+  "name": "Handwerker ERP - Baustelle, Büro & Zeiterfassung",
+  "description": "Umfassendes Handwerker-ERP für Baustelle, Zeiterfassung, Bautagebuch, Angebote, Rechnungen, Kunden-CRM, Materiallager und Controlling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
